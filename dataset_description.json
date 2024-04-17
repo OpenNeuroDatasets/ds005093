@@ -21,7 +21,7 @@
         "All procedures performed in studies involving human participants were conducted in accordance with the ethical standards of the institutional research committee (the National Institutes of Health Combined Neurosciences Institutional Review Board, Protocol 17-M-0179) and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards."
     ],
     "ReferencesAndLinks": [
-   	"Aceves-Serrano L, Sossi V, Doudet DJ. Comparison of Invasive and Non-invasive Estimation of [11C]PBR28 Binding in Non-human Primates. Mol Imaging Biol. 2021. doi:10.1007/s11307-021-01661-6"
-	],
-    "DatasetDOI": " "
+        "Aceves-Serrano L, Sossi V, Doudet DJ. Comparison of Invasive and Non-invasive Estimation of [11C]PBR28 Binding in Non-human Primates. Mol Imaging Biol. 2021. doi:10.1007/s11307-021-01661-6"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005093.v1.0.0"
 }
